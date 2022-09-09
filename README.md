@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Coding-camp
 All files for UT coding camp
 =======
@@ -24,3 +25,6 @@ N/A
 
 Please refer to the LICENSE in the repo
 >>>>>>> main-holder
+=======
+# First-day-repo
+>>>>>>> e74e5bb40bb8c9daa37d9f5ab0c7b4851259573e
